@@ -3,3 +3,6 @@ sch: https://www.google.com/search?q=opnsense+wireless+as+wan
 
 discuss:
 - https://forum.opnsense.org/index.php?topic=25931.0
+
+# Doc:
+- https://docs.opnsense.org/manual/how-tos/interface_wireless_internal.html
