@@ -1,4 +1,4 @@
-sch: https://www.google.com/search?q=opnsense+restart+wifi, https://www.google.com/search?q=opnsense+restart+wireless
+sch: https://www.google.com/search?q=bsd+restart+wireless, https://www.google.com/search?q=opnsense+restart+wifi, https://www.google.com/search?q=opnsense+restart+wireless
 
 # Guide
 - https://www.cyberciti.biz/tips/freebsd-how-to-start-restart-stop-network-service.html
